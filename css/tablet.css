@@ -1,0 +1,30 @@
+@media (min-width:768px) {
+    .main__table {
+        justify-content: center;
+    }
+    /*managing currency tables's position*/
+    .main__currency-table {
+        margin: 0;
+        max-width: 400px;
+    }
+    .currency__container {
+        margin: 0px 50px 15px 50px;
+    }
+    .main__currency-title {
+        margin-right: 50px;
+    }
+    .currency-table__date {
+        margin: 0 70px;
+    }
+    /*comissions*/
+    .comissions__table-container {
+        margin: 0;
+    }
+    .table__comissions {
+        margin-right: 100px;
+    }
+    /*Plans Section*/
+    .plans__container--slider {
+        justify-content: space-around;
+    }
+}
